@@ -1,6 +1,5 @@
 import os
 import cv2
-import numpy as np
 import face_recognition
 import tkinter as tk
 from tkinter import Tk,Entry,Button,INSERT
