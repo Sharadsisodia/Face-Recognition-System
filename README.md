@@ -1,4 +1,5 @@
 # Mini-Project-1
+Project Name: Face Recognition and Instagram User Identification (FRI-UI)
 This is my first project
 <br>
 Author- Sharad Sisodia 
